@@ -1,0 +1,40 @@
+body {
+	font-size: 16px;
+	line-height: 1.8;
+}
+h1,h2,h3,h4,h5 {
+	padding-top: 15px;
+	line-height: 2;
+}
+
+footer, section {
+	padding-top: 45px;
+	padding-bottom: 45px;
+}
+
+#service{
+	background-color: #fbfbfb;
+}
+
+.item {
+	transition: all .5s;
+	padding: 10px;
+	text-align: center;
+}
+.item:hover {
+    transform: translate(0,20px);
+    box-shadow: 0 0 10px 5px #eee;
+
+}
+
+#contact{
+	background-color: #fbfbfb;
+}
+
+.btn-contact {
+	padding: 15px 30px;
+}
+
+footer {
+	color: #ffffff;
+}
